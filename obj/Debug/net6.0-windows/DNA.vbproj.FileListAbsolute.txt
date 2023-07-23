@@ -1,0 +1,12 @@
+E:\Projects\VSTO\DNA\DNA\bin\Debug\net6.0-windows\DNA.deps.json
+E:\Projects\VSTO\DNA\DNA\bin\Debug\net6.0-windows\DNA.runtimeconfig.json
+E:\Projects\VSTO\DNA\DNA\bin\Debug\net6.0-windows\DNA.dll
+E:\Projects\VSTO\DNA\DNA\bin\Debug\net6.0-windows\DNA.pdb
+E:\Projects\VSTO\DNA\DNA\obj\Debug\net6.0-windows\DNA.vbproj.AssemblyReference.cache
+E:\Projects\VSTO\DNA\DNA\obj\Debug\net6.0-windows\DNA.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\VSTO\DNA\DNA\obj\Debug\net6.0-windows\DNA.AssemblyInfoInputs.cache
+E:\Projects\VSTO\DNA\DNA\obj\Debug\net6.0-windows\DNA.AssemblyInfo.vb
+E:\Projects\VSTO\DNA\DNA\obj\Debug\net6.0-windows\DNA.vbproj.CoreCompileInputs.cache
+E:\Projects\VSTO\DNA\DNA\obj\Debug\net6.0-windows\DNA.dll
+E:\Projects\VSTO\DNA\DNA\obj\Debug\net6.0-windows\DNA.pdb
+E:\Projects\VSTO\DNA\DNA\obj\Debug\net6.0-windows\DNA.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "9lxXTJlYu4YJBdxZeyUFePZfSDDUKN/+jWIMNxkXNRnuPgp85/bEUU0/EzNb1SIF9oZrgnUA1RubtEoP3QMNtw==",
+  "success": true,
+  "projectFilePath": "E:\\Projects\\VSTO\\DNA\\DNA\\DNA.vbproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Razen\\.nuget\\packages\\exceldna.addin\\1.6.0\\exceldna.addin.1.6.0.nupkg.sha512",
+    "C:\\Users\\Razen\\.nuget\\packages\\exceldna.integration\\1.6.0\\exceldna.integration.1.6.0.nupkg.sha512",
+    "C:\\Users\\Razen\\.nuget\\packages\\exceldna.interop\\15.0.1\\exceldna.interop.15.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
